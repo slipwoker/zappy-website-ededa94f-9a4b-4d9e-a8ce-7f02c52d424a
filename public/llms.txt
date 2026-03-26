@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Pushkash Fitness House brings elite personal training to northern Tel Aviv. Tailored workouts, expert coaching, and real results await. Start your fitness journey today!
+
+### Services
+https://example.com/services
+Explore custom personal training programs designed to match your goals, fitness level, and lifestyle. Every session at Pushkash Fitness House is crafted to push you further.
+
+### About
+https://example.com/about
+Meet the passionate trainer behind Pushkash Fitness House — dedicated to helping northern Tel Aviv residents build strength, confidence, and lasting healthy habits. Your goals drive everything.
+
+### Contact
+https://example.com/contact
+Ready to get moving? Reach out to Pushkash Fitness House and book your first personal training session in northern Tel Aviv. Real change is just one message away — contact us now!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
